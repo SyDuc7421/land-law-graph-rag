@@ -57,6 +57,7 @@ cache:
 vector_store:
   type: lancedb
   db_uri: output/lancedb
+  vector_size: 1536
 
 ### Workflow settings ###
 
@@ -97,7 +98,7 @@ community_reports:
   max_input_length: 8000
 
 snapshots:
-  graphml: false
+  graphml: true
   embeddings: false
 
 ### Query settings ###
