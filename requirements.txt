@@ -6,3 +6,11 @@ neo4j
 pandas
 pyarrow
 python-dotenv
+
+# API & Chat Service
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-community
+langchain-openai
