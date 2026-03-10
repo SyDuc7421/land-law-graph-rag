@@ -1,0 +1,894 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="NH&#192; N&#431;&#7898;C" />
+    <node id="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="QU&#7888;C H&#7896;I" />
+    <node id="&#7910;Y BAN TH&#431;&#7900;NG V&#7908; QU&#7888;C H&#7896;I" />
+    <node id="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N C&#193;C C&#7844;P" />
+    <node id="CH&#205;NH PH&#7910;" />
+    <node id="&#7910;Y BAN NH&#194;N D&#194;N C&#193;C C&#7844;P" />
+    <node id="QUY HO&#7840;CH, K&#7870; HO&#7840;CH S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="THU H&#7890;I &#272;&#7844;T" />
+    <node id="TR&#431;NG D&#7908;NG &#272;&#7844;T" />
+    <node id="GIAO &#272;&#7844;T" />
+    <node id="CHO THU&#202; &#272;&#7844;T" />
+    <node id="C&#212;NG NH&#7852;N QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="B&#7842;NG GI&#193; &#272;&#7844;T" />
+    <node id="CH&#205;NH S&#193;CH T&#192;I CH&#205;NH V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="QUY&#7872;N V&#192; NGH&#296;A V&#7908; C&#7910;A NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="LU&#7852;T &#272;&#7844;T &#272;AI" />
+    <node id="PH&#193;P L&#7878;NH" />
+    <node id="NGH&#7882; QUY&#7870;T V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="QUY&#7870;T &#272;&#7882;NH GIAO &#272;&#7844;T" />
+    <node id="QUY&#7870;T &#272;&#7882;NH THU H&#7890;I &#272;&#7844;T" />
+    <node id="QUY&#7870;T &#272;&#7882;NH CHO THU&#202; &#272;&#7844;T" />
+    <node id="VI&#7878;C CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="QUY&#7870;T &#272;&#7882;NH CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="V&#258;N B&#7842;N BAN H&#192;NH B&#7842;NG GI&#193; &#272;&#7844;T" />
+    <node id="&#272;&#7844;T N&#212;NG NGHI&#7878;P" />
+    <node id="&#272;&#7844;T TR&#7890;NG L&#218;A" />
+    <node id="&#272;&#7844;T R&#7914;NG &#272;&#7862;C D&#7908;NG" />
+    <node id="&#272;&#7844;T R&#7914;NG PH&#210;NG H&#7896;" />
+    <node id="&#272;&#7844;T R&#7914;NG S&#7842;N XU&#7844;T" />
+    <node id="C&#212;NG NH&#7852;N &#272;&#7844;T &#7902;" />
+    <node id="H&#7840;N M&#7912;C GIAO &#272;&#7844;T N&#212;NG NGHI&#7878;P" />
+    <node id="H&#7840;N M&#7912;C GIAO &#272;&#7844;T &#7902;" />
+    <node id="C&#193;C D&#7920; &#193;N PH&#193;T TRI&#7874;N KINH T&#7870; - X&#195; H&#7896;I V&#204; L&#7906;I &#205;CH QU&#7888;C GIA, C&#7896;NG C&#7896;NG" />
+    <node id="&#272;&#7882;NH GI&#193; &#272;&#7844;T" />
+    <node id="C&#212;NG T&#193;C GI&#193;M S&#193;T VI&#7878;C QU&#7842;N L&#221;, S&#7916; D&#7908;NG &#272;&#7844;T &#272;AI" />
+    <node id="NG&#431;&#7900;I TR&#7920;C TI&#7870;P S&#7842;N XU&#7844;T N&#212;NG NGHI&#7878;P" />
+    <node id="&#272;&#7890;NG B&#192;O D&#194;N T&#7896;C THI&#7874;U S&#7888;" />
+    <node id="GI&#7844;Y CH&#7912;NG NH&#7852;N QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="B&#7890;I TH&#431;&#7900;NG, H&#7894; TR&#7906;, T&#193;I &#272;&#7882;NH C&#431;" />
+    <node id="GI&#7842;I QUY&#7870;T TRANH CH&#7844;P, KHI&#7870;U N&#7840;I, T&#7888; C&#193;O &#272;&#7844;T &#272;AI" />
+    <node id="H&#7894; TR&#7906; PH&#193;P L&#221;, H&#431;&#7898;NG D&#7850;N TH&#7910; T&#7908;C H&#192;NH CH&#205;NH" />
+    <node id="CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="C&#7844;P GI&#7844;Y CH&#7912;NG NH&#7852;N QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="MI&#7876;N, GI&#7842;M TI&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T/THU&#202; &#272;&#7844;T" />
+    <node id="&#272;&#192;O T&#7840;O NGH&#7872;, CHUY&#7874;N &#272;&#7892;I NGH&#7872;, T&#204;M KI&#7870;M VI&#7878;C L&#192;M" />
+    <node id="CHUY&#7874;N NH&#431;&#7906;NG QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="H&#7896; NGH&#200;O" />
+    <node id="CH&#205;NH S&#193;CH H&#7894; TR&#7906; &#272;&#7844;T &#272;AI L&#7846;N &#272;&#7846;U" />
+    <node id="H&#7896; C&#7852;N NGH&#200;O" />
+    <node id="C&#193; NH&#194;N L&#192; NG&#431;&#7900;I D&#194;N T&#7896;C THI&#7874;U S&#7888;" />
+    <node id="DI&#7878;N T&#205;CH &#272;&#7844;T &#272;&#431;&#7906;C NH&#192; N&#431;&#7898;C GIAO" />
+    <node id="&#272;&#7844;T SINH HO&#7840;T C&#7896;NG &#272;&#7890;NG" />
+    <node id="CH&#205;NH S&#193;CH &#272;&#7844;T &#272;AI CHO &#272;&#7890;NG B&#192;O D&#194;N T&#7896;C THI&#7874;U S&#7888;" />
+    <node id="CH&#205;NH S&#193;CH &#272;&#192;O T&#7840;O NGH&#7872; V&#192; VI&#7878;C L&#192;M CHO NG&#431;&#7900;I B&#7882; M&#7844;T &#272;&#7844;T" />
+    <node id="CH&#205;NH S&#193;CH PH&#7892; BI&#7870;N PH&#193;P LU&#7852;T V&#192; TR&#7906; GI&#218;P PH&#193;P L&#221;" />
+    <node id="CH&#7910; S&#7902; H&#7918;U &#272;&#7844;T &#272;AI" />
+    <node id="QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="&#7910;Y BAN NH&#194;N D&#194;N C&#7844;P T&#7880;NH" />
+    <node id="H&#7896; NGH&#200;O, H&#7896; C&#7852;N NGH&#200;O V&#217;NG &#272;&#7890;NG B&#192;O D&#194;N T&#7896;C THI&#7874;U S&#7888; V&#192; MI&#7872;N N&#218;I" />
+    <node id="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N C&#217;NG C&#7844;P" />
+    <node id="&#7910;Y BAN NH&#194;N D&#194;N C&#7844;P X&#195;" />
+    <node id="&#7910;Y BAN NH&#194;N D&#194;N C&#7844;P HUY&#7878;N" />
+    <node id="&#272;&#7844;T &#7902;" />
+    <node id="&#272;&#7844;T PHI N&#212;NG NGHI&#7878;P KH&#212;NG PH&#7842;I L&#192; &#272;&#7844;T &#7902;" />
+    <node id="VI PH&#7840;M CH&#205;NH S&#193;CH V&#7872; &#272;&#7844;T &#272;AI &#272;&#7888;I V&#7898;I &#272;&#7890;NG B&#192;O D&#194;N T&#7896;C THI&#7874;U S&#7888;" />
+    <node id="GI&#7844;Y CH&#7912;NG NH&#7852;N QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T, QUY&#7872;N S&#7902; H&#7918;U T&#192;I S&#7842;N G&#7854;N LI&#7872;N V&#7898;I &#272;&#7844;T" />
+    <node id="MI&#7876;N, GI&#7842;M TI&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T HO&#7862;C TI&#7872;N THU&#202; &#272;&#7844;T" />
+    <node id="QU&#7928; &#272;&#7844;T THU H&#7890;I" />
+    <node id="TH&#7920;C HI&#7878;N CH&#205;NH S&#193;CH H&#7894; TR&#7906; &#272;&#7844;T &#272;AI" />
+    <node id="L&#7852;P H&#7890; S&#416; &#272;&#7882;A CH&#205;NH" />
+    <node id="&#272;O &#272;&#7840;C &#272;&#7844;T &#272;AI" />
+    <node id="R&#192; SO&#193;T TR&#431;&#7900;NG H&#7906;P KH&#212;NG C&#210;N, THI&#7870;U HO&#7862;C KH&#212;NG C&#211; &#272;&#7844;T" />
+    <node id="B&#193;O C&#193;O V&#7872; T&#204;NH TR&#7840;NG &#272;&#7844;T &#272;AI" />
+    <node id="TR&#204;NH BAN H&#192;NH CH&#205;NH S&#193;CH" />
+    <node id="T&#7892; CH&#7912;C TH&#7920;C HI&#7878;N CH&#205;NH S&#193;CH" />
+    <node id="C&#193;C CHI PH&#205; &#272;&#7874; TH&#7920;C HI&#7878;N CH&#205;NH S&#193;CH &#272;&#7844;T &#272;AI" />
+    <node id="H&#7894; TR&#7906; &#7892;N &#272;&#7882;NH CU&#7896;C S&#7888;NG" />
+    <node id="C&#193; NH&#194;N &#272;&#431;&#7906;C NH&#192; N&#431;&#7898;C GIAO &#272;&#7844;T, CHO THU&#202; &#272;&#7844;T" />
+    <node id="NG&#194;N S&#193;CH NH&#192; N&#431;&#7898;C" />
+    <node id="H&#7878; TH&#7888;NG TH&#212;NG TIN QU&#7888;C GIA V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="C&#212;NG B&#7888; TH&#212;NG TIN &#272;&#7844;T &#272;AI" />
+    <node id="TH&#212;NG B&#193;O QUY&#7870;T &#272;&#7882;NH H&#192;NH CH&#205;NH, H&#192;NH VI H&#192;NH CH&#205;NH" />
+    <node id="M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM" />
+    <node id="&#7910;Y BAN TRUNG &#431;&#416;NG M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM" />
+    <node id="TH&#7910; T&#431;&#7898;NG CH&#205;NH PH&#7910;" />
+    <node id="&#7910;Y BAN M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM C&#193;C C&#7844;P" />
+    <node id="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N" />
+    <node id="&#7910;Y BAN NH&#194;N D&#194;N" />
+    <node id="H&#210;A GI&#7842;I TRANH CH&#7844;P &#272;&#7844;T &#272;AI" />
+    <node id="X&#194;Y D&#7920;NG B&#7842;NG GI&#193; &#272;&#7844;T" />
+    <node id="KH&#212;NG TH&#7914;A NH&#7852;N VI&#7878;C &#272;&#210;I L&#7840;I &#272;&#7844;T &#272;&#195; &#272;&#431;&#7906;C GIAO" />
+    <node id="B&#7842;O H&#7896; QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="&#272;O &#272;&#7840;C, L&#7852;P H&#7890; S&#416; &#272;&#7882;A CH&#205;NH" />
+    <node id="V&#258;N B&#7842;N PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="QUY HO&#7840;CH, K&#7870; HO&#7840;CH S&#7916; D&#7908;NG &#272;&#7844;T QU&#7888;C GIA" />
+    <node id="D&#7920; &#193;N C&#211; S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="NGU&#7890;N V&#7888;N H&#7906;P PH&#193;P KH&#193;C" />
+    <node id="T&#7892; CH&#7912;C, C&#193; NH&#194;N KH&#193;C" />
+    <node id="B&#205; M&#7852;T NH&#192; N&#431;&#7898;C" />
+    <node id="PHONG T&#7908;C, T&#7852;P QU&#193;N, V&#258;N H&#211;A TRUY&#7872;N TH&#7888;NG C&#7910;A T&#7914;NG D&#194;N T&#7896;C, T&#7914;NG V&#217;NG" />
+    <node id="BAN H&#192;NH V&#258;N B&#7842;N QUY PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="NH&#194;N D&#194;N" />
+    <node id="T&#7892; CH&#7912;C TH&#192;NH VI&#202;N C&#7910;A M&#7862;T TR&#7852;N" />
+    <node id="L&#7852;P V&#192; QU&#7842;N L&#221; QUY HO&#7840;CH, K&#7870; HO&#7840;CH S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="GI&#7842;I QUY&#7870;T TRANH CH&#7844;P &#272;&#7844;T &#272;AI" />
+    <node id="X&#7916; L&#221; VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="C&#7844;P, &#272;&#205;NH CH&#205;NH, THU H&#7890;I, H&#7910;Y GI&#7844;Y CH&#7912;NG NH&#7852;N" />
+    <node id="&#272;&#258;NG K&#221; &#272;&#7844;T &#272;AI" />
+    <node id="THAM GIA &#221; KI&#7870;N V&#7872; THU H&#7890;I &#272;&#7844;T" />
+    <node id="GI&#193;M S&#193;T QU&#193; TR&#204;NH X&#194;Y D&#7920;NG B&#7842;NG GI&#193; &#272;&#7844;T V&#192; TH&#7920;C HI&#7878;N" />
+    <node id="THAM GIA H&#210;A GI&#7842;I TRANH CH&#7844;P &#272;&#7844;T &#272;AI" />
+    <node id="GI&#193;M S&#193;T CH&#205;NH S&#193;CH, PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="&#272;O &#272;&#7840;C, L&#7852;P B&#7842;N &#272;&#7890; &#272;&#7882;A CH&#205;NH" />
+    <node id="L&#7852;P V&#192; QU&#7842;N L&#221; H&#7890; S&#416; &#272;&#7882;A GI&#7898;I &#272;&#416;N V&#7882; H&#192;NH CH&#205;NH" />
+    <node id="TH&#7888;NG K&#202; &#272;&#7844;T &#272;AI" />
+    <node id="KI&#7874;M K&#202; &#272;&#7844;T &#272;AI" />
+    <node id="QU&#7842;N L&#221; T&#192;I CH&#205;NH V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="QU&#7842;N L&#221; V&#192; KHAI TH&#193;C QU&#7928; &#272;&#7844;T" />
+    <node id="X&#194;Y D&#7920;NG, V&#7852;N H&#192;NH H&#7878; TH&#7888;NG TH&#212;NG TIN QU&#7888;C GIA V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="GI&#7842;I QUY&#7870;T KHI&#7870;U N&#7840;I, T&#7888; C&#193;O V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="KI&#7874;M TRA, GI&#193;M S&#193;T, THEO D&#213;I, &#272;&#193;NH GI&#193; CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="H&#192;NH VI VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="B&#7896; T&#192;I NGUY&#202;N V&#192; M&#212;I TR&#431;&#7900;NG" />
+    <node id="B&#7896;, C&#416; QUAN NGANG B&#7896;" />
+    <node id="CH&#205;NH QUY&#7872;N &#272;&#7882;A PH&#431;&#416;NG C&#193;C C&#7844;P" />
+    <node id="C&#416; QUAN QU&#7842;N L&#221; &#272;&#7844;T &#272;AI &#7902; TRUNG &#431;&#416;NG" />
+    <node id="C&#416; QUAN QU&#7842;N L&#221; &#272;&#7844;T &#272;AI &#7902; &#272;&#7882;A PH&#431;&#416;NG" />
+    <node id="C&#212;NG CH&#7912;C L&#192;M C&#212;NG T&#193;C &#272;&#7882;A CH&#205;NH" />
+    <node id="T&#7892; CH&#7912;C D&#7882;CH V&#7908; C&#212;NG V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="TH&#7888;NG K&#202;, KI&#7874;M K&#202; &#272;&#7844;T &#272;AI" />
+    <node id="X&#194;Y D&#7920;NG, QU&#7842;N L&#221;, V&#7852;N H&#192;NH, KHAI TH&#193;C H&#7878; TH&#7888;NG TH&#212;NG TIN QU&#7888;C GIA V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="C&#212;NG D&#194;N" />
+    <node id="QUY&#7872;N C&#7910;A C&#212;NG D&#194;N &#272;&#7888;I V&#7898;I &#272;&#7844;T &#272;AI" />
+    <node id="QU&#7842;N L&#221;, GI&#193;M S&#193;T VI&#7878;C TH&#7920;C HI&#7878;N QUY&#7872;N V&#192; NGH&#296;A V&#7908; C&#7910;A NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="GI&#7844;Y CH&#7912;NG NH&#7852;N" />
+    <node id="GI&#7842;I QUY&#7870;T TRANH CH&#7844;P &#272;&#7844;T &#272;AI, GI&#7842;I QUY&#7870;T KHI&#7870;U N&#7840;I, T&#7888; C&#193;O V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="CUNG C&#7844;P, QU&#7842;N L&#221; HO&#7840;T &#272;&#7896;NG D&#7882;CH V&#7908; C&#212;NG V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="THANH TRA, KI&#7874;M TRA, GI&#193;M S&#193;T, THEO D&#213;I, &#272;&#193;NH GI&#193; VI&#7878;C CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI V&#192; X&#7916; L&#221; VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="T&#7892; CH&#7912;C &#272;&#258;NG K&#221; &#272;&#7844;T &#272;AI" />
+    <node id="T&#7892; CH&#7912;C PH&#193;T TRI&#7874;N QU&#7928; &#272;&#7844;T" />
+    <node id="C&#193;C T&#7892; CH&#7912;C D&#7882;CH V&#7908; C&#212;NG KH&#193;C V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="QUY&#7872;N &#272;&#7844;U GI&#193; QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="QUY&#7872;N B&#204;NH &#272;&#7858;NG, B&#204;NH &#272;&#7858;NG GI&#7898;I TRONG QU&#7842;N L&#221;, S&#7916; D&#7908;NG &#272;&#7844;T &#272;AI" />
+    <node id="PH&#201;P KHI&#7870;U N&#7840;I V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="PH&#201;P T&#7888; C&#193;O V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="THANH TRA VI&#7878;C CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="KI&#7874;M TRA VI&#7878;C CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="GI&#193;M S&#193;T, THEO D&#213;I, &#272;&#193;NH GI&#193; VI&#7878;C CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="TRANH CH&#7844;P &#272;&#7844;T &#272;AI" />
+    <node id="KHI&#7870;U N&#7840;I, T&#7888; C&#193;O V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="C&#416; QUAN NH&#192; N&#431;&#7898;C" />
+    <node id="B&#204;NH &#272;&#7858;NG, B&#204;NH &#272;&#7858;NG GI&#7898;I TRONG QU&#7842;N L&#221;, S&#7916; D&#7908;NG &#272;&#7844;T &#272;AI" />
+    <node id="TH&#212;NG TIN &#272;&#7844;T &#272;AI" />
+    <node id="&#272;&#7844;U GI&#193; QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="&#272;&#7844;U TH&#7846;U L&#7920;A CH&#7884;N NH&#192; &#272;&#7846;U T&#431;" />
+    <node id="CHUY&#7874;N NH&#431;&#7906;NG, T&#7862;NG CHO, TH&#7914;A K&#7870;, G&#211;P V&#7888;N, THU&#202; QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="PH&#431;&#416;NG &#193;N B&#7890;I TH&#431;&#7900;NG, H&#7894; TR&#7906;, T&#193;I &#272;&#7882;NH C&#431;" />
+    <node id="THANH TRA, KI&#7874;M TRA, GI&#7842;I QUY&#7870;T TRANH CH&#7844;P &#272;&#7844;T &#272;AI" />
+    <node id="V&#258;N B&#7842;N QUY PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="B&#7842;O V&#7878; V&#192; PH&#193;T TRI&#7874;N T&#192;I NGUY&#202;N &#272;&#7844;T" />
+    <node id="T&#212;N TR&#7884;NG QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T C&#7910;A NG&#431;&#7900;I KH&#193;C" />
+    <node id="K&#7870;T QU&#7842; X&#7916; L&#221; VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="TH&#7910; T&#7908;C H&#192;NH CH&#205;NH V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T KH&#193;C" />
+    <node id="TH&#7842;O LU&#7852;N, KI&#7870;N NGH&#7882;, PH&#7842;N &#193;NH V&#7872; QU&#7842;N L&#221;, S&#7916; D&#7908;NG &#272;&#7844;T &#272;AI" />
+    <node id="THAM GIA QU&#7842;N L&#221; NH&#192; N&#431;&#7898;C V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="K&#7870;T QU&#7842; GI&#7842;I QUY&#7870;T KHI&#7870;U N&#7840;I, T&#7888; C&#193;O V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="K&#7870;T QU&#7842; THANH TRA, KI&#7874;M TRA V&#7872; &#272;&#7844;T &#272;AI" />
+    <node id="CHUY&#7874;N NH&#431;&#7906;NG C&#7892; PH&#7846;N, PH&#7846;N V&#7888;N G&#211;P L&#192; GI&#193; TR&#7882; QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="QUY &#272;&#7882;NH V&#7872; TI&#7870;P C&#7852;N TH&#212;NG TIN &#272;&#7844;T &#272;AI" />
+    <node id="QUY&#7870;T &#272;&#7882;NH, PH&#202; DUY&#7878;T C&#7910;A C&#416; QUAN NH&#192; N&#431;&#7898;C" />
+    <node id="QUY TR&#204;NH &#272;&#7844;U GI&#193;, &#272;&#7844;U TH&#7846;U S&#7916; D&#7908;NG &#272;&#7844;T" />
+    <node id="H&#7894; TR&#7906;, T&#193;I &#272;&#7882;NH C&#431; KHI NH&#192; N&#431;&#7898;C THU H&#7890;I &#272;&#7844;T" />
+    <edge source="NH&#192; N&#431;&#7898;C" target="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">28.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="QU&#7888;C H&#7896;I">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="&#7910;Y BAN TH&#431;&#7900;NG V&#7908; QU&#7888;C H&#7896;I">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N C&#193;C C&#7844;P">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="CH&#205;NH PH&#7910;">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="&#7910;Y BAN NH&#194;N D&#194;N C&#193;C C&#7844;P">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="QUY HO&#7840;CH, K&#7870; HO&#7840;CH S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="THU H&#7890;I &#272;&#7844;T">
+      <data key="d0">18.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="TR&#431;NG D&#7908;NG &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="GIAO &#272;&#7844;T">
+      <data key="d0">17.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="CHO THU&#202; &#272;&#7844;T">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="C&#212;NG NH&#7852;N QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="B&#7842;NG GI&#193; &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="CH&#205;NH S&#193;CH T&#192;I CH&#205;NH V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="QUY&#7872;N V&#192; NGH&#296;A V&#7908; C&#7910;A NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="LU&#7852;T &#272;&#7844;T &#272;AI">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="QUY&#7870;T &#272;&#7882;NH GIAO &#272;&#7844;T">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="QUY&#7870;T &#272;&#7882;NH THU H&#7890;I &#272;&#7844;T">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="QUY&#7870;T &#272;&#7882;NH CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="C&#212;NG NH&#7852;N &#272;&#7844;T &#7902;">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="NG&#431;&#7900;I TR&#7920;C TI&#7870;P S&#7842;N XU&#7844;T N&#212;NG NGHI&#7878;P">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="&#272;&#7890;NG B&#192;O D&#194;N T&#7896;C THI&#7874;U S&#7888;">
+      <data key="d0">16.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="GI&#7844;Y CH&#7912;NG NH&#7852;N QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="B&#7890;I TH&#431;&#7900;NG, H&#7894; TR&#7906;, T&#193;I &#272;&#7882;NH C&#431;">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="GI&#7842;I QUY&#7870;T TRANH CH&#7844;P, KHI&#7870;U N&#7840;I, T&#7888; C&#193;O &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="H&#7894; TR&#7906; PH&#193;P L&#221;, H&#431;&#7898;NG D&#7850;N TH&#7910; T&#7908;C H&#192;NH CH&#205;NH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="CHUY&#7874;N NH&#431;&#7906;NG QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="CH&#205;NH S&#193;CH PH&#7892; BI&#7870;N PH&#193;P LU&#7852;T V&#192; TR&#7906; GI&#218;P PH&#193;P L&#221;">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="CH&#7910; S&#7902; H&#7918;U &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="C&#193; NH&#194;N L&#192; NG&#431;&#7900;I D&#194;N T&#7896;C THI&#7874;U S&#7888;">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="NG&#194;N S&#193;CH NH&#192; N&#431;&#7898;C">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="H&#7878; TH&#7888;NG TH&#212;NG TIN QU&#7888;C GIA V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="C&#212;NG B&#7888; TH&#212;NG TIN &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="TH&#212;NG B&#193;O QUY&#7870;T &#272;&#7882;NH H&#192;NH CH&#205;NH, H&#192;NH VI H&#192;NH CH&#205;NH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="KH&#212;NG TH&#7914;A NH&#7852;N VI&#7878;C &#272;&#210;I L&#7840;I &#272;&#7844;T &#272;&#195; &#272;&#431;&#7906;C GIAO">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="B&#7842;O H&#7896; QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="PHONG T&#7908;C, T&#7852;P QU&#193;N, V&#258;N H&#211;A TRUY&#7872;N TH&#7888;NG C&#7910;A T&#7914;NG D&#194;N T&#7896;C, T&#7914;NG V&#217;NG">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="C&#212;NG D&#194;N">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="C&#416; QUAN NH&#192; N&#431;&#7898;C">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NH&#192; N&#431;&#7898;C" target="K&#7870;T QU&#7842; X&#7916; L&#221; VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" target="QUY&#7872;N V&#192; NGH&#296;A V&#7908; C&#7910;A NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">20.0</data>
+    </edge>
+    <edge source="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" target="LU&#7852;T &#272;&#7844;T &#272;AI">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" target="H&#7840;N M&#7912;C GIAO &#272;&#7844;T N&#212;NG NGHI&#7878;P">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" target="H&#7840;N M&#7912;C GIAO &#272;&#7844;T &#7902;">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" target="CH&#205;NH S&#193;CH T&#192;I CH&#205;NH V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" target="H&#7894; TR&#7906; PH&#193;P L&#221;, H&#431;&#7898;NG D&#7850;N TH&#7910; T&#7908;C H&#192;NH CH&#205;NH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" target="QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" target="GI&#7844;Y CH&#7912;NG NH&#7852;N QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" target="H&#7878; TH&#7888;NG TH&#212;NG TIN QU&#7888;C GIA V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" target="C&#212;NG B&#7888; TH&#212;NG TIN &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" target="GI&#7844;Y CH&#7912;NG NH&#7852;N">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="QU&#7888;C H&#7896;I" target="&#7910;Y BAN TH&#431;&#7900;NG V&#7908; QU&#7888;C H&#7896;I">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="QU&#7888;C H&#7896;I" target="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N C&#193;C C&#7844;P">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="QU&#7888;C H&#7896;I" target="LU&#7852;T &#272;&#7844;T &#272;AI">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="QU&#7888;C H&#7896;I" target="C&#212;NG T&#193;C GI&#193;M S&#193;T VI&#7878;C QU&#7842;N L&#221;, S&#7916; D&#7908;NG &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="QU&#7888;C H&#7896;I" target="&#7910;Y BAN TRUNG &#431;&#416;NG M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="QU&#7888;C H&#7896;I" target="D&#7920; &#193;N C&#211; S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN TH&#431;&#7900;NG V&#7908; QU&#7888;C H&#7896;I" target="LU&#7852;T &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N C&#193;C C&#7844;P" target="B&#7842;NG GI&#193; &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N C&#193;C C&#7844;P" target="QUY HO&#7840;CH, K&#7870; HO&#7840;CH S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N C&#193;C C&#7844;P" target="LU&#7852;T &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N C&#193;C C&#7844;P" target="VI&#7878;C CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N C&#193;C C&#7844;P" target="C&#212;NG T&#193;C GI&#193;M S&#193;T VI&#7878;C QU&#7842;N L&#221;, S&#7916; D&#7908;NG &#272;&#7844;T &#272;AI">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="CH&#205;NH PH&#7910;" target="LU&#7852;T &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CH&#205;NH PH&#7910;" target="TH&#7910; T&#431;&#7898;NG CH&#205;NH PH&#7910;">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CH&#205;NH PH&#7910;" target="B&#7896; T&#192;I NGUY&#202;N V&#192; M&#212;I TR&#431;&#7900;NG">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CH&#205;NH PH&#7910;" target="B&#7896;, C&#416; QUAN NGANG B&#7896;">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CH&#205;NH PH&#7910;" target="CH&#205;NH QUY&#7872;N &#272;&#7882;A PH&#431;&#416;NG C&#193;C C&#7844;P">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CH&#205;NH PH&#7910;" target="TH&#7888;NG K&#202;, KI&#7874;M K&#202; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CH&#205;NH PH&#7910;" target="THANH TRA, KI&#7874;M TRA, GI&#193;M S&#193;T, THEO D&#213;I, &#272;&#193;NH GI&#193; VI&#7878;C CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI V&#192; X&#7916; L&#221; VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N C&#193;C C&#7844;P" target="GIAO &#272;&#7844;T">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N C&#193;C C&#7844;P" target="CHO THU&#202; &#272;&#7844;T">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N C&#193;C C&#7844;P" target="THU H&#7890;I &#272;&#7844;T">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N C&#193;C C&#7844;P" target="TR&#431;NG D&#7908;NG &#272;&#7844;T">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N C&#193;C C&#7844;P" target="LU&#7852;T &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="QUY HO&#7840;CH, K&#7870; HO&#7840;CH S&#7916; D&#7908;NG &#272;&#7844;T" target="C&#416; QUAN NH&#192; N&#431;&#7898;C">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="THU H&#7890;I &#272;&#7844;T" target="QUY&#7870;T &#272;&#7882;NH THU H&#7890;I &#272;&#7844;T">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="THU H&#7890;I &#272;&#7844;T" target="C&#193;C D&#7920; &#193;N PH&#193;T TRI&#7874;N KINH T&#7870; - X&#195; H&#7896;I V&#204; L&#7906;I &#205;CH QU&#7888;C GIA, C&#7896;NG C&#7896;NG">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THU H&#7890;I &#272;&#7844;T" target="B&#7890;I TH&#431;&#7900;NG, H&#7894; TR&#7906;, T&#193;I &#272;&#7882;NH C&#431;">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="THU H&#7890;I &#272;&#7844;T" target="VI PH&#7840;M CH&#205;NH S&#193;CH V&#7872; &#272;&#7844;T &#272;AI &#272;&#7888;I V&#7898;I &#272;&#7890;NG B&#192;O D&#194;N T&#7896;C THI&#7874;U S&#7888;">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THU H&#7890;I &#272;&#7844;T" target="C&#193; NH&#194;N &#272;&#431;&#7906;C NH&#192; N&#431;&#7898;C GIAO &#272;&#7844;T, CHO THU&#202; &#272;&#7844;T">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="THU H&#7890;I &#272;&#7844;T" target="&#7910;Y BAN M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM C&#193;C C&#7844;P">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THU H&#7890;I &#272;&#7844;T" target="&#7910;Y BAN NH&#194;N D&#194;N">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="THU H&#7890;I &#272;&#7844;T" target="PH&#431;&#416;NG &#193;N B&#7890;I TH&#431;&#7900;NG, H&#7894; TR&#7906;, T&#193;I &#272;&#7882;NH C&#431;">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="THU H&#7890;I &#272;&#7844;T" target="H&#7894; TR&#7906;, T&#193;I &#272;&#7882;NH C&#431; KHI NH&#192; N&#431;&#7898;C THU H&#7890;I &#272;&#7844;T">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="TR&#431;NG D&#7908;NG &#272;&#7844;T" target="&#7910;Y BAN NH&#194;N D&#194;N">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GIAO &#272;&#7844;T" target="QUY&#7870;T &#272;&#7882;NH GIAO &#272;&#7844;T">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="GIAO &#272;&#7844;T" target="&#272;&#7890;NG B&#192;O D&#194;N T&#7896;C THI&#7874;U S&#7888;">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GIAO &#272;&#7844;T" target="C&#193; NH&#194;N L&#192; NG&#431;&#7900;I D&#194;N T&#7896;C THI&#7874;U S&#7888;">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="GIAO &#272;&#7844;T" target="&#7910;Y BAN NH&#194;N D&#194;N">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CHO THU&#202; &#272;&#7844;T" target="QUY&#7870;T &#272;&#7882;NH CHO THU&#202; &#272;&#7844;T">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="CHO THU&#202; &#272;&#7844;T" target="C&#193; NH&#194;N L&#192; NG&#431;&#7900;I D&#194;N T&#7896;C THI&#7874;U S&#7888;">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CHO THU&#202; &#272;&#7844;T" target="&#7910;Y BAN NH&#194;N D&#194;N">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="B&#7842;NG GI&#193; &#272;&#7844;T" target="V&#258;N B&#7842;N BAN H&#192;NH B&#7842;NG GI&#193; &#272;&#7844;T">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="B&#7842;NG GI&#193; &#272;&#7844;T" target="&#272;&#7882;NH GI&#193; &#272;&#7844;T">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="B&#7842;NG GI&#193; &#272;&#7844;T" target="C&#416; QUAN NH&#192; N&#431;&#7898;C">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="QUY&#7872;N V&#192; NGH&#296;A V&#7908; C&#7910;A NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" target="QU&#7842;N L&#221;, GI&#193;M S&#193;T VI&#7878;C TH&#7920;C HI&#7878;N QUY&#7872;N V&#192; NGH&#296;A V&#7908; C&#7910;A NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="QUY&#7872;N V&#192; NGH&#296;A V&#7908; C&#7910;A NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T" target="QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="LU&#7852;T &#272;&#7844;T &#272;AI" target="PH&#193;P L&#7878;NH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LU&#7852;T &#272;&#7844;T &#272;AI" target="NGH&#7882; QUY&#7870;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="LU&#7852;T &#272;&#7844;T &#272;AI" target="C&#212;NG D&#194;N">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="VI&#7878;C CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T" target="QUY&#7870;T &#272;&#7882;NH CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="&#272;&#7844;T N&#212;NG NGHI&#7878;P" target="&#272;&#7844;T TR&#7890;NG L&#218;A">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="&#272;&#7844;T N&#212;NG NGHI&#7878;P" target="&#272;&#7844;T R&#7914;NG &#272;&#7862;C D&#7908;NG">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="&#272;&#7844;T N&#212;NG NGHI&#7878;P" target="&#272;&#7844;T R&#7914;NG PH&#210;NG H&#7896;">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="&#272;&#7844;T N&#212;NG NGHI&#7878;P" target="&#272;&#7844;T R&#7914;NG S&#7842;N XU&#7844;T">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="&#272;&#7844;T N&#212;NG NGHI&#7878;P" target="C&#193; NH&#194;N L&#192; NG&#431;&#7900;I D&#194;N T&#7896;C THI&#7874;U S&#7888;">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="&#272;&#7844;T TR&#7890;NG L&#218;A" target="CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#272;&#7844;T R&#7914;NG &#272;&#7862;C D&#7908;NG" target="CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#272;&#7844;T R&#7914;NG PH&#210;NG H&#7896;" target="CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#272;&#7844;T R&#7914;NG S&#7842;N XU&#7844;T" target="CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NG&#431;&#7900;I TR&#7920;C TI&#7870;P S&#7842;N XU&#7844;T N&#212;NG NGHI&#7878;P" target="&#272;&#192;O T&#7840;O NGH&#7872;, CHUY&#7874;N &#272;&#7892;I NGH&#7872;, T&#204;M KI&#7870;M VI&#7878;C L&#192;M">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NG&#431;&#7900;I TR&#7920;C TI&#7870;P S&#7842;N XU&#7844;T N&#212;NG NGHI&#7878;P" target="CH&#205;NH S&#193;CH &#272;&#192;O T&#7840;O NGH&#7872; V&#192; VI&#7878;C L&#192;M CHO NG&#431;&#7900;I B&#7882; M&#7844;T &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="&#272;&#7890;NG B&#192;O D&#194;N T&#7896;C THI&#7874;U S&#7888;" target="MI&#7876;N, GI&#7842;M TI&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T/THU&#202; &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="&#272;&#7890;NG B&#192;O D&#194;N T&#7896;C THI&#7874;U S&#7888;" target="CH&#205;NH S&#193;CH &#272;&#7844;T &#272;AI CHO &#272;&#7890;NG B&#192;O D&#194;N T&#7896;C THI&#7874;U S&#7888;">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GI&#7844;Y CH&#7912;NG NH&#7852;N QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" target="C&#7844;P GI&#7844;Y CH&#7912;NG NH&#7852;N QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GI&#7844;Y CH&#7912;NG NH&#7852;N QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" target="&#272;O &#272;&#7840;C, L&#7852;P H&#7890; S&#416; &#272;&#7882;A CH&#205;NH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GI&#7844;Y CH&#7912;NG NH&#7852;N QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" target="NH&#194;N D&#194;N">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="B&#7890;I TH&#431;&#7900;NG, H&#7894; TR&#7906;, T&#193;I &#272;&#7882;NH C&#431;" target="&#7910;Y BAN M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM C&#193;C C&#7844;P">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="B&#7890;I TH&#431;&#7900;NG, H&#7894; TR&#7906;, T&#193;I &#272;&#7882;NH C&#431;" target="NG&#194;N S&#193;CH NH&#192; N&#431;&#7898;C">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="B&#7890;I TH&#431;&#7900;NG, H&#7894; TR&#7906;, T&#193;I &#272;&#7882;NH C&#431;" target="NGU&#7890;N V&#7888;N H&#7906;P PH&#193;P KH&#193;C">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="B&#7890;I TH&#431;&#7900;NG, H&#7894; TR&#7906;, T&#193;I &#272;&#7882;NH C&#431;" target="NH&#194;N D&#194;N">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="B&#7890;I TH&#431;&#7900;NG, H&#7894; TR&#7906;, T&#193;I &#272;&#7882;NH C&#431;" target="&#7910;Y BAN NH&#194;N D&#194;N">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T" target="DI&#7878;N T&#205;CH &#272;&#7844;T &#272;&#431;&#7906;C NH&#192; N&#431;&#7898;C GIAO">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T" target="C&#193; NH&#194;N L&#192; NG&#431;&#7900;I D&#194;N T&#7896;C THI&#7874;U S&#7888;">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CHUY&#7874;N M&#7908;C &#272;&#205;CH S&#7916; D&#7908;NG &#272;&#7844;T" target="&#7910;Y BAN NH&#194;N D&#194;N">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="H&#7896; NGH&#200;O" target="CH&#205;NH S&#193;CH H&#7894; TR&#7906; &#272;&#7844;T &#272;AI L&#7846;N &#272;&#7846;U">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CH&#205;NH S&#193;CH H&#7894; TR&#7906; &#272;&#7844;T &#272;AI L&#7846;N &#272;&#7846;U" target="H&#7896; C&#7852;N NGH&#200;O">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CH&#205;NH S&#193;CH H&#7894; TR&#7906; &#272;&#7844;T &#272;AI L&#7846;N &#272;&#7846;U" target="C&#193; NH&#194;N L&#192; NG&#431;&#7900;I D&#194;N T&#7896;C THI&#7874;U S&#7888;">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C&#193; NH&#194;N L&#192; NG&#431;&#7900;I D&#194;N T&#7896;C THI&#7874;U S&#7888;" target="&#7910;Y BAN NH&#194;N D&#194;N C&#7844;P T&#7880;NH">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="C&#193; NH&#194;N L&#192; NG&#431;&#7900;I D&#194;N T&#7896;C THI&#7874;U S&#7888;" target="&#272;&#7844;T &#7902;">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C&#193; NH&#194;N L&#192; NG&#431;&#7900;I D&#194;N T&#7896;C THI&#7874;U S&#7888;" target="&#272;&#7844;T PHI N&#212;NG NGHI&#7878;P KH&#212;NG PH&#7842;I L&#192; &#272;&#7844;T &#7902;">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="C&#193; NH&#194;N L&#192; NG&#431;&#7900;I D&#194;N T&#7896;C THI&#7874;U S&#7888;" target="GI&#7844;Y CH&#7912;NG NH&#7852;N QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T, QUY&#7872;N S&#7902; H&#7918;U T&#192;I S&#7842;N G&#7854;N LI&#7872;N V&#7898;I &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C&#193; NH&#194;N L&#192; NG&#431;&#7900;I D&#194;N T&#7896;C THI&#7874;U S&#7888;" target="MI&#7876;N, GI&#7842;M TI&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T HO&#7862;C TI&#7872;N THU&#202; &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C&#193; NH&#194;N L&#192; NG&#431;&#7900;I D&#194;N T&#7896;C THI&#7874;U S&#7888;" target="TH&#7920;C HI&#7878;N CH&#205;NH S&#193;CH H&#7894; TR&#7906; &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="C&#193; NH&#194;N L&#192; NG&#431;&#7900;I D&#194;N T&#7896;C THI&#7874;U S&#7888;" target="H&#7894; TR&#7906; &#7892;N &#272;&#7882;NH CU&#7896;C S&#7888;NG">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="&#272;&#7844;T SINH HO&#7840;T C&#7896;NG &#272;&#7890;NG" target="CH&#205;NH S&#193;CH &#272;&#7844;T &#272;AI CHO &#272;&#7890;NG B&#192;O D&#194;N T&#7896;C THI&#7874;U S&#7888;">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" target="NH&#194;N D&#194;N">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T" target="C&#212;NG D&#194;N">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N C&#7844;P T&#7880;NH" target="H&#7896; NGH&#200;O, H&#7896; C&#7852;N NGH&#200;O V&#217;NG &#272;&#7890;NG B&#192;O D&#194;N T&#7896;C THI&#7874;U S&#7888; V&#192; MI&#7872;N N&#218;I">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N C&#7844;P T&#7880;NH" target="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N C&#217;NG C&#7844;P">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N C&#7844;P T&#7880;NH" target="T&#7892; CH&#7912;C TH&#7920;C HI&#7878;N CH&#205;NH S&#193;CH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N C&#217;NG C&#7844;P" target="TR&#204;NH BAN H&#192;NH CH&#205;NH S&#193;CH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N C&#7844;P X&#195;" target="&#7910;Y BAN NH&#194;N D&#194;N C&#7844;P HUY&#7878;N">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N C&#7844;P X&#195;" target="VI PH&#7840;M CH&#205;NH S&#193;CH V&#7872; &#272;&#7844;T &#272;AI &#272;&#7888;I V&#7898;I &#272;&#7890;NG B&#192;O D&#194;N T&#7896;C THI&#7874;U S&#7888;">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N C&#7844;P X&#195;" target="CH&#205;NH QUY&#7872;N &#272;&#7882;A PH&#431;&#416;NG C&#193;C C&#7844;P">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N C&#7844;P X&#195;" target="C&#212;NG CH&#7912;C L&#192;M C&#212;NG T&#193;C &#272;&#7882;A CH&#205;NH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N C&#7844;P HUY&#7878;N" target="B&#193;O C&#193;O V&#7872; T&#204;NH TR&#7840;NG &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GI&#7844;Y CH&#7912;NG NH&#7852;N QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T, QUY&#7872;N S&#7902; H&#7918;U T&#192;I S&#7842;N G&#7854;N LI&#7872;N V&#7898;I &#272;&#7844;T" target="L&#7852;P H&#7890; S&#416; &#272;&#7882;A CH&#205;NH">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="GI&#7844;Y CH&#7912;NG NH&#7852;N QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T, QUY&#7872;N S&#7902; H&#7918;U T&#192;I S&#7842;N G&#7854;N LI&#7872;N V&#7898;I &#272;&#7844;T" target="&#272;O &#272;&#7840;C &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="QU&#7928; &#272;&#7844;T THU H&#7890;I" target="TH&#7920;C HI&#7878;N CH&#205;NH S&#193;CH H&#7894; TR&#7906; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="TH&#7920;C HI&#7878;N CH&#205;NH S&#193;CH H&#7894; TR&#7906; &#272;&#7844;T &#272;AI" target="C&#193;C CHI PH&#205; &#272;&#7874; TH&#7920;C HI&#7878;N CH&#205;NH S&#193;CH &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="R&#192; SO&#193;T TR&#431;&#7900;NG H&#7906;P KH&#212;NG C&#210;N, THI&#7870;U HO&#7862;C KH&#212;NG C&#211; &#272;&#7844;T" target="B&#193;O C&#193;O V&#7872; T&#204;NH TR&#7840;NG &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NG&#194;N S&#193;CH NH&#192; N&#431;&#7898;C" target="&#272;O &#272;&#7840;C, L&#7852;P H&#7890; S&#416; &#272;&#7882;A CH&#205;NH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="H&#7878; TH&#7888;NG TH&#212;NG TIN QU&#7888;C GIA V&#7872; &#272;&#7844;T &#272;AI" target="T&#7892; CH&#7912;C, C&#193; NH&#194;N KH&#193;C">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="H&#7878; TH&#7888;NG TH&#212;NG TIN QU&#7888;C GIA V&#7872; &#272;&#7844;T &#272;AI" target="B&#205; M&#7852;T NH&#192; N&#431;&#7898;C">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM" target="&#7910;Y BAN TRUNG &#431;&#416;NG M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM" target="V&#258;N B&#7842;N PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM" target="NH&#194;N D&#194;N">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM" target="THAM GIA &#221; KI&#7870;N V&#7872; THU H&#7890;I &#272;&#7844;T">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM" target="GI&#193;M S&#193;T QU&#193; TR&#204;NH X&#194;Y D&#7920;NG B&#7842;NG GI&#193; &#272;&#7844;T V&#192; TH&#7920;C HI&#7878;N">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM" target="THAM GIA H&#210;A GI&#7842;I TRANH CH&#7844;P &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM" target="GI&#193;M S&#193;T CH&#205;NH S&#193;CH, PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN TRUNG &#431;&#416;NG M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM" target="TH&#7910; T&#431;&#7898;NG CH&#205;NH PH&#7910;">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN TRUNG &#431;&#416;NG M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM" target="QUY HO&#7840;CH, K&#7870; HO&#7840;CH S&#7916; D&#7908;NG &#272;&#7844;T QU&#7888;C GIA">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM C&#193;C C&#7844;P" target="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM C&#193;C C&#7844;P" target="&#7910;Y BAN NH&#194;N D&#194;N">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM C&#193;C C&#7844;P" target="H&#210;A GI&#7842;I TRANH CH&#7844;P &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN M&#7862;T TR&#7852;N T&#7892; QU&#7888;C VI&#7878;T NAM C&#193;C C&#7844;P" target="X&#194;Y D&#7920;NG B&#7842;NG GI&#193; &#272;&#7844;T">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N" target="BAN H&#192;NH V&#258;N B&#7842;N QUY PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="H&#7896;I &#272;&#7890;NG NH&#194;N D&#194;N" target="L&#7852;P V&#192; QU&#7842;N L&#221; QUY HO&#7840;CH, K&#7870; HO&#7840;CH S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N" target="BAN H&#192;NH V&#258;N B&#7842;N QUY PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N" target="X&#7916; L&#221; VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N" target="C&#7844;P, &#272;&#205;NH CH&#205;NH, THU H&#7890;I, H&#7910;Y GI&#7844;Y CH&#7912;NG NH&#7852;N">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N" target="&#272;O &#272;&#7840;C, L&#7852;P B&#7842;N &#272;&#7890; &#272;&#7882;A CH&#205;NH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N" target="L&#7852;P V&#192; QU&#7842;N L&#221; H&#7890; S&#416; &#272;&#7882;A GI&#7898;I &#272;&#416;N V&#7882; H&#192;NH CH&#205;NH">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N" target="TH&#7888;NG K&#202; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N" target="KI&#7874;M K&#202; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N" target="QU&#7842;N L&#221; T&#192;I CH&#205;NH V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N" target="QU&#7842;N L&#221; V&#192; KHAI TH&#193;C QU&#7928; &#272;&#7844;T">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N" target="X&#194;Y D&#7920;NG, V&#7852;N H&#192;NH H&#7878; TH&#7888;NG TH&#212;NG TIN QU&#7888;C GIA V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N" target="GI&#7842;I QUY&#7870;T KHI&#7870;U N&#7840;I, T&#7888; C&#193;O V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N" target="KI&#7874;M TRA, GI&#193;M S&#193;T, THEO D&#213;I, &#272;&#193;NH GI&#193; CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="&#7910;Y BAN NH&#194;N D&#194;N" target="H&#192;NH VI VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="H&#210;A GI&#7842;I TRANH CH&#7844;P &#272;&#7844;T &#272;AI" target="NH&#194;N D&#194;N">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="X&#194;Y D&#7920;NG B&#7842;NG GI&#193; &#272;&#7844;T" target="GI&#193;M S&#193;T QU&#193; TR&#204;NH X&#194;Y D&#7920;NG B&#7842;NG GI&#193; &#272;&#7844;T V&#192; TH&#7920;C HI&#7878;N">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BAN H&#192;NH V&#258;N B&#7842;N QUY PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" target="GI&#193;M S&#193;T CH&#205;NH S&#193;CH, PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NH&#194;N D&#194;N" target="T&#7892; CH&#7912;C TH&#192;NH VI&#202;N C&#7910;A M&#7862;T TR&#7852;N">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NH&#194;N D&#194;N" target="GI&#7842;I QUY&#7870;T TRANH CH&#7844;P &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NH&#194;N D&#194;N" target="&#272;&#258;NG K&#221; &#272;&#7844;T &#272;AI">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NH&#194;N D&#194;N" target="H&#192;NH VI VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="X&#7916; L&#221; VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" target="THANH TRA, KI&#7874;M TRA, GI&#193;M S&#193;T, THEO D&#213;I, &#272;&#193;NH GI&#193; VI&#7878;C CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI V&#192; X&#7916; L&#221; VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="X&#7916; L&#221; VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" target="H&#192;NH VI VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="&#272;&#258;NG K&#221; &#272;&#7844;T &#272;AI" target="X&#194;Y D&#7920;NG, V&#7852;N H&#192;NH H&#7878; TH&#7888;NG TH&#212;NG TIN QU&#7888;C GIA V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="KI&#7874;M K&#202; &#272;&#7844;T &#272;AI" target="C&#212;NG D&#194;N">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="B&#7896; T&#192;I NGUY&#202;N V&#192; M&#212;I TR&#431;&#7900;NG" target="C&#416; QUAN QU&#7842;N L&#221; &#272;&#7844;T &#272;AI &#7902; TRUNG &#431;&#416;NG">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="B&#7896; T&#192;I NGUY&#202;N V&#192; M&#212;I TR&#431;&#7900;NG" target="X&#194;Y D&#7920;NG, QU&#7842;N L&#221;, V&#7852;N H&#192;NH, KHAI TH&#193;C H&#7878; TH&#7888;NG TH&#212;NG TIN QU&#7888;C GIA V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="CH&#205;NH QUY&#7872;N &#272;&#7882;A PH&#431;&#416;NG C&#193;C C&#7844;P" target="C&#416; QUAN QU&#7842;N L&#221; &#272;&#7844;T &#272;AI &#7902; &#272;&#7882;A PH&#431;&#416;NG">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="CH&#205;NH QUY&#7872;N &#272;&#7882;A PH&#431;&#416;NG C&#193;C C&#7844;P" target="GI&#7842;I QUY&#7870;T TRANH CH&#7844;P &#272;&#7844;T &#272;AI, GI&#7842;I QUY&#7870;T KHI&#7870;U N&#7840;I, T&#7888; C&#193;O V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="C&#416; QUAN QU&#7842;N L&#221; &#272;&#7844;T &#272;AI &#7902; &#272;&#7882;A PH&#431;&#416;NG" target="T&#7892; CH&#7912;C D&#7882;CH V&#7908; C&#212;NG V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="T&#7892; CH&#7912;C D&#7882;CH V&#7908; C&#212;NG V&#7872; &#272;&#7844;T &#272;AI" target="CUNG C&#7844;P, QU&#7842;N L&#221; HO&#7840;T &#272;&#7896;NG D&#7882;CH V&#7908; C&#212;NG V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="T&#7892; CH&#7912;C D&#7882;CH V&#7908; C&#212;NG V&#7872; &#272;&#7844;T &#272;AI" target="T&#7892; CH&#7912;C &#272;&#258;NG K&#221; &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="T&#7892; CH&#7912;C D&#7882;CH V&#7908; C&#212;NG V&#7872; &#272;&#7844;T &#272;AI" target="T&#7892; CH&#7912;C PH&#193;T TRI&#7874;N QU&#7928; &#272;&#7844;T">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="T&#7892; CH&#7912;C D&#7882;CH V&#7908; C&#212;NG V&#7872; &#272;&#7844;T &#272;AI" target="C&#193;C T&#7892; CH&#7912;C D&#7882;CH V&#7908; C&#212;NG KH&#193;C V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="QUY&#7872;N C&#7910;A C&#212;NG D&#194;N &#272;&#7888;I V&#7898;I &#272;&#7844;T &#272;AI">
+      <data key="d0">10.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="C&#416; QUAN NH&#192; N&#431;&#7898;C">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="B&#204;NH &#272;&#7858;NG, B&#204;NH &#272;&#7858;NG GI&#7898;I TRONG QU&#7842;N L&#221;, S&#7916; D&#7908;NG &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="TH&#212;NG TIN &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="&#272;&#7844;U GI&#193; QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="&#272;&#7844;U TH&#7846;U L&#7920;A CH&#7884;N NH&#192; &#272;&#7846;U T&#431;">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="CHUY&#7874;N NH&#431;&#7906;NG, T&#7862;NG CHO, TH&#7914;A K&#7870;, G&#211;P V&#7888;N, THU&#202; QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="PH&#431;&#416;NG &#193;N B&#7890;I TH&#431;&#7900;NG, H&#7894; TR&#7906;, T&#193;I &#272;&#7882;NH C&#431;">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="V&#258;N B&#7842;N QUY PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="B&#7842;O V&#7878; V&#192; PH&#193;T TRI&#7874;N T&#192;I NGUY&#202;N &#272;&#7844;T">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="T&#212;N TR&#7884;NG QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T C&#7910;A NG&#431;&#7900;I KH&#193;C">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="TH&#7910; T&#7908;C H&#192;NH CH&#205;NH V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T KH&#193;C">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="TH&#7842;O LU&#7852;N, KI&#7870;N NGH&#7882;, PH&#7842;N &#193;NH V&#7872; QU&#7842;N L&#221;, S&#7916; D&#7908;NG &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="THAM GIA QU&#7842;N L&#221; NH&#192; N&#431;&#7898;C V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="K&#7870;T QU&#7842; GI&#7842;I QUY&#7870;T KHI&#7870;U N&#7840;I, T&#7888; C&#193;O V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="K&#7870;T QU&#7842; THANH TRA, KI&#7874;M TRA V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="CHUY&#7874;N NH&#431;&#7906;NG C&#7892; PH&#7846;N, PH&#7846;N V&#7888;N G&#211;P L&#192; GI&#193; TR&#7882; QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="C&#212;NG D&#194;N" target="QUY &#272;&#7882;NH V&#7872; TI&#7870;P C&#7852;N TH&#212;NG TIN &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="QUY&#7872;N C&#7910;A C&#212;NG D&#194;N &#272;&#7888;I V&#7898;I &#272;&#7844;T &#272;AI" target="QUY&#7872;N &#272;&#7844;U GI&#193; QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="QUY&#7872;N C&#7910;A C&#212;NG D&#194;N &#272;&#7888;I V&#7898;I &#272;&#7844;T &#272;AI" target="QUY&#7872;N B&#204;NH &#272;&#7858;NG, B&#204;NH &#272;&#7858;NG GI&#7898;I TRONG QU&#7842;N L&#221;, S&#7916; D&#7908;NG &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="QUY&#7872;N C&#7910;A C&#212;NG D&#194;N &#272;&#7888;I V&#7898;I &#272;&#7844;T &#272;AI" target="PH&#201;P KHI&#7870;U N&#7840;I V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="QUY&#7872;N C&#7910;A C&#212;NG D&#194;N &#272;&#7888;I V&#7898;I &#272;&#7844;T &#272;AI" target="PH&#201;P T&#7888; C&#193;O V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GI&#7842;I QUY&#7870;T TRANH CH&#7844;P &#272;&#7844;T &#272;AI, GI&#7842;I QUY&#7870;T KHI&#7870;U N&#7840;I, T&#7888; C&#193;O V&#7872; &#272;&#7844;T &#272;AI" target="TRANH CH&#7844;P &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="GI&#7842;I QUY&#7870;T TRANH CH&#7844;P &#272;&#7844;T &#272;AI, GI&#7842;I QUY&#7870;T KHI&#7870;U N&#7840;I, T&#7888; C&#193;O V&#7872; &#272;&#7844;T &#272;AI" target="KHI&#7870;U N&#7840;I, T&#7888; C&#193;O V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="THANH TRA, KI&#7874;M TRA, GI&#193;M S&#193;T, THEO D&#213;I, &#272;&#193;NH GI&#193; VI&#7878;C CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI V&#192; X&#7916; L&#221; VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" target="THANH TRA VI&#7878;C CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THANH TRA, KI&#7874;M TRA, GI&#193;M S&#193;T, THEO D&#213;I, &#272;&#193;NH GI&#193; VI&#7878;C CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI V&#192; X&#7916; L&#221; VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" target="KI&#7874;M TRA VI&#7878;C CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="THANH TRA, KI&#7874;M TRA, GI&#193;M S&#193;T, THEO D&#213;I, &#272;&#193;NH GI&#193; VI&#7878;C CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI V&#192; X&#7916; L&#221; VI PH&#7840;M PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI" target="GI&#193;M S&#193;T, THEO D&#213;I, &#272;&#193;NH GI&#193; VI&#7878;C CH&#7844;P H&#192;NH PH&#193;P LU&#7852;T V&#7872; &#272;&#7844;T &#272;AI">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C&#416; QUAN NH&#192; N&#431;&#7898;C" target="THANH TRA, KI&#7874;M TRA, GI&#7842;I QUY&#7870;T TRANH CH&#7844;P &#272;&#7844;T &#272;AI">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="C&#416; QUAN NH&#192; N&#431;&#7898;C" target="QUY&#7870;T &#272;&#7882;NH, PH&#202; DUY&#7878;T C&#7910;A C&#416; QUAN NH&#192; N&#431;&#7898;C">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="C&#416; QUAN NH&#192; N&#431;&#7898;C" target="QUY TR&#204;NH &#272;&#7844;U GI&#193;, &#272;&#7844;U TH&#7846;U S&#7916; D&#7908;NG &#272;&#7844;T">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="T&#212;N TR&#7884;NG QUY&#7872;N S&#7916; D&#7908;NG &#272;&#7844;T C&#7910;A NG&#431;&#7900;I KH&#193;C" target="NG&#431;&#7900;I S&#7916; D&#7908;NG &#272;&#7844;T KH&#193;C">
+      <data key="d0">8.0</data>
+    </edge>
+  </graph>
+</graphml>

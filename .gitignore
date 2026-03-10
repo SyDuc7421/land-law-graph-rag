@@ -5,7 +5,6 @@ venv/
 env/
 
 # GraphRAG specific
-output/
 cache/
 logs/
 
