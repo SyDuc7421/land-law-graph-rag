@@ -16,7 +16,7 @@ completion_models:
 embedding_models:
   default_embedding_model:
     model_provider: openai
-    model: 800
+    model: "text-embedding-3-small"
     auth_method: api_key
     api_key: ${GRAPHRAG_API_KEY}
     retry:
