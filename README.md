@@ -149,7 +149,7 @@ Gửi câu hỏi pháp lý, nhận câu trả lời có trích dẫn từ AI.
 **Request:**
 ```json
 {
-  "query": "UBND tỉnh có thẩm quyền gì trong việc thu hồi đất?",
+  "query": "Nhà nước có những quyền gì khi là đại diện chủ sở hữu đất đai theo Luật 2024?",
   "top_k": 10
 }
 ```
@@ -157,28 +157,54 @@ Gửi câu hỏi pháp lý, nhận câu trả lời có trích dẫn từ AI.
 **Response:**
 ```json
 {
-  "answer": "Theo Khoản 2 Điều 79 Luật Đất đai 2024, UBND cấp tỉnh có thẩm quyền thu hồi đất...",
+  "answer": "Nhà nước có những quyền sau khi là đại diện chủ sở hữu đất đai theo Luật Đất đai 2024:\n\n1. **Ban hành luật, pháp lệnh, nghị quyết về đất đai**  \n   Căn cứ: Khoản 1 Điều 10, Luật Đất đai 2024.\n\n2. **Quyết định quy hoạch sử dụng đất quốc gia**  \n   Căn cứ: Khoản 1 Điều 10, Luật Đất đai 2024.\n\n3. **Thực hiện quyền giám sát đối với việc quản lý, sử dụng đất đai trong phạm vi cả nước**  \n   Căn cứ: Khoản 1 Điều 10, Luật Đất đai 2024.\n\nNhững quyền này thể hiện vai trò của Nhà nước trong việc quản lý và sử dụng đất đai nhằm đảm bảo lợi ích chung của toàn xã hội.",
   "query_type": "chu_the",
-  "intent_summary": "Thẩm quyền thu hồi đất của UBND tỉnh",
-  "confidence": 0.87,
+  "intent_summary": "Hỏi quyền của Nhà nước khi là chủ sở hữu đất.",
+  "confidence": 0.95,
   "has_evidence": true,
   "citations": [
     {
       "law_year": 2024,
-      "article_number": 79,
-      "title": "Thẩm quyền thu hồi đất",
-      "chapter_name": "THU HỒI ĐẤT, TRƯNG DỤNG ĐẤT",
-      "source_type": "graph"
+      "article_number": 6,
+      "title": "Người chịu trách nhiệm trước Nhà nước đối với việc sử dụng đất",
+      "chapter_name": "QUY ĐỊNH CHUNG",
+      "source_type": "graph",
+      "change_type": null,
+      "diff_summary": null
+    },
+    {...},
+    {
+      "law_year": 2024,
+      "article_number": 32,
+      "title": "Quyền và nghĩa vụ của tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất",
+      "chapter_name": "QUYỀN VÀ NGHĨA VỤ CỦA NGƯỜI SỬ DỤNG ĐẤT",
+      "source_type": "graph",
+      "change_type": null,
+      "diff_summary": null
     }
   ],
-  "cypher_queries": ["MATCH (a:Article {law_year: 2024}) ..."],
+  "cypher_query": "\n        MATCH (a:Article {law_year: $yr})-[:HAS_CLAUSE]->(cl:Clause)\n        WHERE cl.clause_type IN ['RIGHT', 'OBLIGATION', 'GENERAL']\n          AND a.article_number > 5\n          AND ANY(term IN $terms WHERE toLower(cl.content) CONTAINS toLower(term))\n        RETURN\n            a.chunk_id AS chunk_id, a.article_number AS article_number,\n            a.title AS title, a.law_year AS law_year, a.chapter_name AS chapter_name,\n            a.content AS article_content,\n            cl.clause_number AS clause_number, cl.content AS clause_content,\n            cl.clause_type AS clause_type\n        ORDER BY a.article_number, cl.clause_number\n        LIMIT $top_k\n        ",
+  "cypher_queries": [
+    "\n        MATCH (a:Article {law_year: $yr})-[:HAS_CLAUSE]->(cl:Clause)\n        WHERE cl.clause_type IN ['RIGHT', 'OBLIGATION', 'GENERAL']\n          AND a.article_number > 5\n          AND ANY(term IN $terms WHERE toLower(cl.content) CONTAINS toLower(term))\n        RETURN\n            a.chunk_id AS chunk_id, a.article_number AS article_number,\n            a.title AS title, a.law_year AS law_year, a.chapter_name AS chapter_name,\n            a.content AS article_content,\n            cl.clause_number AS clause_number, cl.content AS clause_content,\n            cl.clause_type AS clause_type\n        ORDER BY a.article_number, cl.clause_number\n        LIMIT $top_k\n        "
+  ],
   "retrieval_stats": {
-    "total_chunks": 8,
-    "graph_chunks": 5,
-    "vector_chunks": 3,
-    "vector_used": true
+    "total_chunks": 20,
+    "graph_chunks": 20,
+    "vector_chunks": 0,
+    "vector_used": false
   },
-  "context_data": [ "..." ]
+  "context_data": [
+    {
+      "chunk_id": "2024_dieu_6_k1",
+      "law_year": 2024,
+      "article_number": 6,
+      "title": "Người chịu trách nhiệm trước Nhà nước đối với việc sử dụng đất",
+      "content": "Người đại diện theo pháp luật của tổ chức trong nước, tổ chức kinh tế có vốn đầu tư nước ngoài; người đứng đầu của tổ chức nước ngoài có chức năng ngoại giao đối với việc sử dụng đất của tổ chức mình.",
+      "source": "graph",
+      "score": 1
+    },
+    { ... }
+  ]   
 }
 ```
 
