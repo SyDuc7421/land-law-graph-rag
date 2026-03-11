@@ -11,3 +11,8 @@ pydantic
 langchain
 langchain-community
 langchain-openai
+
+# Law processing pipeline
+openai>=1.0.0
+tiktoken
+numpy
