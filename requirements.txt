@@ -1,6 +1,3 @@
-# Core GraphRAG
-graphrag
-
 # Custom Neo4j ingestion
 neo4j
 pandas
