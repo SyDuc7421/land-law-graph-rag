@@ -13,9 +13,8 @@ import re
 import unicodedata
 from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import List, Optional, Tuple
 
-from app.law_processing.models import Article
 
 
 # ─── Match Result Dataclass ────────────────────────────────────────────────────
@@ -401,7 +400,7 @@ def run_cross_mapping(
     Returns:
         Full list of ArticleMatch objects
     """
-    print("\n🔗 Starting Cross-Mapping Pipeline...")
+    print("\nStarting Cross-Mapping Pipeline...")
 
     # Step 1
     matched, unmatched_2013, unmatched_2024 = step1_number_anchor(chunks_2013, chunks_2024)
@@ -453,7 +452,7 @@ def run_cross_mapping(
         ct = m.change_type or "UNKNOWN"
         change_type_counts[ct] = change_type_counts.get(ct, 0) + 1
 
-    print(f"\n📊 Cross-Mapping Summary ({len(matched)} total):")
+    print(f"\nCross-Mapping Summary ({len(matched)} total):")
     for ct, count in sorted(change_type_counts.items()):
         print(f"   {ct}: {count}")
 

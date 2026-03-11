@@ -1,18 +1,13 @@
-# Custom Neo4j ingestion
 neo4j
 pandas
 pyarrow
 python-dotenv
-
-# API & Chat Service
 fastapi
 uvicorn
 pydantic
 langchain
 langchain-community
 langchain-openai
-
-# Law processing pipeline
 openai>=1.0.0
 tiktoken
 numpy

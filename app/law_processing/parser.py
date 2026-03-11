@@ -316,11 +316,11 @@ def parse_both_laws(
     Convenience function to parse both law files.
     Returns (law_2013, law_2024).
     """
-    print(f"📖 Parsing LandLaw 2013 from {file_2013}...")
+    print(f"Parsing LandLaw 2013 from {file_2013}...")
     law_2013 = parse_law_file(file_2013, 2013)
     print(f"   ✓ {len(law_2013.all_articles)} articles parsed")
 
-    print(f"📖 Parsing LandLaw 2024 from {file_2024}...")
+    print(f"Parsing LandLaw 2024 from {file_2024}...")
     law_2024 = parse_law_file(file_2024, 2024)
     print(f"   ✓ {len(law_2024.all_articles)} articles parsed")
 

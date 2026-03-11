@@ -7,7 +7,7 @@ import json
 from pathlib import Path
 from typing import List
 
-from app.law_processing.models import Article, LawDocument
+from app.law_processing.models import LawDocument
 
 
 def articles_to_chunks(law_doc: LawDocument) -> List[dict]:

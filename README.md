@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ### 3. Cấu hình biến môi trường (`.env`)
 Tạo một file `.env` ở thư mục gốc của dự án với nội dung như sau:
 ```env
-GRAPHRAG_API_KEY=sk-your-openai-api-key
+OPEN_AI_API=sk-your-openai-api-key
 NEO4J_URI=bolt://localhost:7687
 NEO4J_USERNAME=neo4j
 NEO4J_PASSWORD=my_secure_password123

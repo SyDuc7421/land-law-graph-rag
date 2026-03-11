@@ -324,23 +324,23 @@ def build_knowledge_graph(
     try:
         with driver.session() as session:
             # Schema setup
-            print("⚙️  Setting up Neo4j schema (constraints + indexes)...")
+            print("Setting up Neo4j schema (constraints + indexes)...")
             setup_schema(session)
 
             # Optional: clear existing data
             if clear_existing:
-                print("🗑️  Clearing existing graph data...")
+                print("Clearing existing graph data...")
                 session.run("MATCH (n) DETACH DELETE n")
 
             # Ingest law documents
-            print("\n📥 Ingesting LandLaw 2013...")
+            print("\nIngesting LandLaw 2013...")
             ingest_law_chunks(session, chunks_2013)
 
-            print("\n📥 Ingesting LandLaw 2024...")
+            print("\nIngesting LandLaw 2024...")
             ingest_law_chunks(session, chunks_2024)
 
             # Ingest cross-mapping
-            print("\n🔗 Creating cross-law relationships...")
+            print("\nCreating cross-law relationships...")
             ingest_cross_mapping(session, cross_mapping)
 
             # Summary query
@@ -361,11 +361,11 @@ def build_knowledge_graph(
             for row in result3:
                 print(f"   Concept nodes: {row['cnt']}")
 
-            print("\n✅ Knowledge Graph build complete!")
+            print("\nKnowledge Graph build complete!")
             print("   Open http://localhost:7474 to explore the graph.")
 
     except Exception as e:
-        print(f"❌ Error building knowledge graph: {e}")
+        print(f"Error building knowledge graph: {e}")
         raise
     finally:
         driver.close()
