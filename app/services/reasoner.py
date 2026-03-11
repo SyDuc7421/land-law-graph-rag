@@ -31,8 +31,8 @@ logger = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------
 
 MIN_CHUNKS_REQUIRED  = 1      # ít nhất 1 chunk
-MIN_CONTENT_LENGTH   = 50     # nội dung mỗi chunk ≥ 50 ký tự
-LOW_CONFIDENCE_SCORE = 0.3    # vector score dưới ngưỡng này → không đủ tin cậy
+MIN_CONTENT_LENGTH   = 30     # nội dung mỗi chunk ≥ 30 ký tự
+LOW_CONFIDENCE_SCORE = 0.0    # không lọc theo vector score (cosine dist có thể > 1)
 
 # ---------------------------------------------------------------------------
 # Output schema
@@ -87,17 +87,11 @@ def _build_context_block(chunks: List[RetrievedChunk], max_chunks: int = 12) -> 
 # ---------------------------------------------------------------------------
 
 def _has_sufficient_evidence(result: RetrievalResult) -> bool:
-    """True nếu có ít nhất một chunk có nội dung đủ dài."""
-    valid_chunks = [
-        c for c in result.chunks
-        if c.content and len(c.content.strip()) >= MIN_CONTENT_LENGTH
-    ]
-    if not valid_chunks:
-        return False
-    # Nếu chỉ có vector chunks với score thấp → không đủ tin cậy
-    graph_chunks = [c for c in valid_chunks if c.source == "graph"]
-    vector_high  = [c for c in valid_chunks if c.source == "vector" and c.score >= LOW_CONFIDENCE_SCORE]
-    return bool(graph_chunks or vector_high)
+    """True nếu có ít nhất một chunk có nội dung đủ dài (graph hoặc vector)."""
+    return any(
+        c.content and len(c.content.strip()) >= MIN_CONTENT_LENGTH
+        for c in result.chunks
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -110,10 +104,12 @@ Nhiệm vụ: đưa ra câu trả lời CHẮC CHẮN khi có căn cứ, KHÔNG 
 QUY TẮC BẮT BUỘC:
 1. Luôn trích dẫn: "theo Điều X, Luật Đất đai năm Y" hoặc "căn cứ Khoản N Điều X Luật Y".
 2. Nếu context có trường `diff_summary`, trình bày tóm tắt thay đổi đó.
-3. Nếu KHÔNG có thông tin trong [NGỮCẢNH], trả lời chính xác:
-   "Không có thông tin về vấn đề này trong cơ sở dữ liệu Luật Đất đai 2013–2024."
-4. KHÔNG bịa đặt, KHÔNG suy diễn ngoài nội dung đã được trích dẫn.
-5. Trả lời bằng tiếng Việt, rõ ràng, có cấu trúc."""
+3. Nếu câu hỏi hỏi về điều KHÔNG TỒN TẠI trong luật (ví dụ "sở hữu tư nhân đối với đất"),
+   HÃY DÙNG ngừng pháp lý từ [NGỮ CẢNH] để GIẢI THÍCH tại sao không tồn tại.
+   Ví dụ: "Đất đai không có sở hữu tư nhân vì theo Điều 12 Luật 2024, đất đai thuộc sở hữu toàn dân..."
+4. Chỉ trả lời "Không có thông tin" khi [NGỮ CẢNH] THỰC SỰ rỗng hoặc hoàn toàn không liên quan.
+5. KHÔNG bỏa đặt, KHÔNG suy diễn ngoài nội dung đã được trích dẫn.
+6. Trả lời bằng tiếng Việt, rõ ràng, có cấu trúc."""
 
 _PROMPTS: Dict[QueryType, str] = {
     QueryType.SO_SANH: _SYSTEM_BASE + """
